@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yorusuki.forlink",
+    "sha256_cert_fingerprints":
+    ["94:4E:1D:CC:BB:B8:42:DF:4B:A5:44:62:27:CC:77:4F:2A:8B:0D:6E:51:E1:23:1F:17:4A:53:5A:CF:C2:9B:E0"]
+  }
+}]
